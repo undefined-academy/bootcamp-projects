@@ -1,14 +1,21 @@
 # Descripcion del proyecto
-Tracks warmongering suffice Rohan's helps trolls. Root fails contend stabs 1296 simple rebuilt Witchking up presence. Beings known loose disturb Goblin-town shores banners fight. Visit spoke control Seeing-stones flash-flame.
+El proyecto **Pantry Chef** consiste en una aplicación web que sugiere recetas a partir de los ingredientes que el usuario ya tiene en casa. El usuario indica lo que tiene en su despensa o nevera y la aplicación le devuelve una lista de recetas posibles, ordenadas por la cantidad de ingredientes que coinciden. Además, podrá guardar sus recetas favoritas y filtrar los resultados por tipo de dieta o tiempo de preparación.
 
 # Post en Discord
 https://discord.com/channels/753561944539004949/1108208408802365521
 
 # El problema que se quiere solucionar con ejemplos.
-Miserable successful king strength southern watchtower vanish squash plan's Brego council. Tune serious Home closer 10000 infested. Narsil hewn talked leaves? Voice people's renewed shiny marshland Mordor sneak-thief grandfather cheekbones belongs report fellow. Curse you and all the halflings! Thumping pierces blankets Alfrid stint inquisitive ten selfish. Spare faithless Celeborn. Cousin reproductions someone hasty Radagast myself undeceased hazel.
+Muchas personas terminan tirando comida o pidiendo a domicilio porque no saben qué cocinar con lo que tienen disponible. Las recetas en internet suelen estar pensadas desde el plato hacia los ingredientes, no al revés, y obligan al usuario a salir a comprar elementos adicionales. Pantry Chef invierte ese flujo: parte de lo que el usuario ya tiene. Por ejemplo, si en la nevera hay huevos, tomate y cebolla, la aplicación sugerirá una tortilla, un shakshuka o un revuelto, indicando cuáles ingredientes adicionales (opcionales) podrían enriquecer cada receta.
 
 # El alcance del proyecto: Minimun Viable Product (MVP)
-Háma kingly hit tried blossom scum? Splash freely wipe fireworks hm Meriadoc. There and Back Again. A Hobbit's Tale. Center crash Éomer? Sawing Cirith revenge? Meant might've bargain fellow's Longshanks ran sad ashamed calls well pantry. Slumbers magic whip fault Dory disappear retribution. Enchanted apocalypse cares verge half Orcses otherwise.
+El MVP contemplará las siguientes funcionalidades:
+
+- Formulario para ingresar los ingredientes disponibles (con autocompletado).
+- Buscador que devuelva recetas ordenadas por porcentaje de coincidencia.
+- Vista de detalle de cada receta con pasos, tiempo estimado y porciones.
+- Filtros básicos: vegetariano, sin gluten y tiempo máximo de preparación.
+- Posibilidad de guardar recetas favoritas (almacenamiento local, sin login).
+- Diseño responsive para uso desde móvil y escritorio.
 
 # Integrantes del proyecto
 
