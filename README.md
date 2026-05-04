@@ -1,4 +1,5 @@
-# Descripcion del proyecto
+> # ⚠️ Mira el nuevo repositorio de Undefined Academy en https://github.com/glrodasz/academy
+## Descripcion del proyecto
 El proyecto **Pantry Chef** consiste en una aplicación web que sugiere recetas a partir de los ingredientes que el usuario ya tiene en casa. El usuario indica lo que tiene en su despensa o nevera y la aplicación le devuelve una lista de recetas posibles, ordenadas por la cantidad de ingredientes que coinciden. Además, podrá guardar sus recetas favoritas y filtrar los resultados por tipo de dieta o tiempo de preparación.
 
 # Post en Discord
